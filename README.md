@@ -1,5 +1,5 @@
 # Sobre mim:
-Atuo usando HTML5, CSS3, JavaScript<br>e Frameworks como React<br>Busco trabalhar na área de desenvolvimento web no Front-End.
+Atuo usando HTML5, CSS3, JavaScript e<br>Frameworks como React<br>Busco trabalhar na área de desenvolvimento web no Front-End.
 
 
 ## 🌐 Redes sociais:
